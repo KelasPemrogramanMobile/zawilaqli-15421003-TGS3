@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">FORM REGISTRASI</string>
+    <string name="app_name2">HASIL REGISTRASI</string>
+    <string-array name="arAgama">
+        <item>Pilih Agama Anda</item>
+        <item>Islam</item>
+        <item>Kristen</item>
+        <item>Budha</item>
+        <item>Hindu</item>
+    </string-array>
+</resources>
